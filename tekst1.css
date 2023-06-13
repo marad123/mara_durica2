@@ -5,9 +5,8 @@ p {
 }
 @font-face {
 	font-family:'MaraDurica';
-	src: url(MaraDurica_novo.ttf) format ('truetype');
+	src: url(../MaraDurica_novo.ttf) format ('truetype');
 }
-
 h1 {
 	font-family: "MaraDurica"
 	background-color: white;
